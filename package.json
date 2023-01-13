@@ -10,9 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "sat": "^0.9.0"
-  },
-  "devDependencies": {
+    "sat": "^0.9.0",
     "@timohausmann/quadtree-ts": "^2.0.0-beta.1"
   }
 }
